@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "403219606060",
+    "project_id": "food--n--go",
+    "storage_bucket": "food--n--go.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403219606060:android:d2edf4504039ae3f44bf89",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN-gxY7LkO4Zi-wF9dWNDWyFIbgC-T-f0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403219606060:android:c96ee542f5149ecd44bf89",
+        "android_client_info": {
+          "package_name": "com.example.cook_n_go"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN-gxY7LkO4Zi-wF9dWNDWyFIbgC-T-f0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
